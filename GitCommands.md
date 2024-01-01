@@ -2,7 +2,7 @@ Git Commands
 ============
 _A list of my commonly used Git commands_
 
-*If you are interested in my Git aliases, have a look at my GitHub Profile: *
+*If you are interested in my Git aliases, have a look at my GitHub Profile:https://github.com/BhatuJay/B.-Sc.-It/blob/3253e94fe63c76dbc4f6b6af56e4c2450f877c1f/GitCommands.md#git-commands *
 
 --
 
